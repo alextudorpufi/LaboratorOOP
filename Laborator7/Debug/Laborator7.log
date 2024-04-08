@@ -1,0 +1,11 @@
+﻿  Laborator7.cpp
+C:\Users\gerge\source\repos\Laborator7\Laborator7.cpp(5,19): warning C4244: 'return': conversion from 'long double' to 'float', possible loss of data
+C:\Users\gerge\source\repos\Laborator7\Laborator7.cpp(8,38): warning C4244: 'return': conversion from 'long double' to 'float', possible loss of data
+C:\Users\gerge\source\repos\Laborator7\Laborator7.cpp(11,15): error C3688: invalid literal suffix '_Kelvin'; literal operator or literal operator template 'operator ""_Kelvin' not found
+  C:\Users\gerge\source\repos\Laborator7\Laborator7.cpp(11,15):
+  Literal operator must have a parameter list of the form 'unsigned long long' or 'const char *'
+  
+C:\Users\gerge\source\repos\Laborator7\Laborator7.cpp(12,15): error C3688: invalid literal suffix '_Fahrenheit'; literal operator or literal operator template 'operator ""_Fahrenheit' not found
+  C:\Users\gerge\source\repos\Laborator7\Laborator7.cpp(12,15):
+  Literal operator must have a parameter list of the form 'unsigned long long' or 'const char *'
+  
