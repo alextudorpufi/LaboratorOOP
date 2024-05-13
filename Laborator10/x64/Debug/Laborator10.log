@@ -1,0 +1,3 @@
+﻿  Laborator10.cpp
+C:\Users\gerge\source\repos\Laborator10\Array.h(71): warning C4717: 'ArrayIterator<int>::operator!=': recursive on all control paths, function will cause runtime stack overflow
+  Laborator10.vcxproj -> C:\Users\gerge\source\repos\Laborator10\x64\Debug\Laborator10.exe
