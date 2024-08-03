@@ -1,0 +1,9 @@
+﻿  AntrenamentExamen2.9.cpp
+  Find.cpp
+  MyVector.cpp
+C:\Users\gerge\source\repos\AntrenamentExamen2.9\MyVector.cpp(9,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gerge\source\repos\AntrenamentExamen2.9\MyVector.cpp(13,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gerge\source\repos\AntrenamentExamen2.9\MyVector.cpp(17,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Suma.cpp
+  Generating Code...
+  AntrenamentExamen2.9.vcxproj -> C:\Users\gerge\source\repos\AntrenamentExamen2.9\x64\Debug\AntrenamentExamen2.9.exe
